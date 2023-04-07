@@ -5,6 +5,6 @@ ChatGpt APi Checker secara Masal
 
 Jika Repo ini tembus 20 star akan saya push source code nya .
 
-## Sreenshot :
+## Demo Sreenshot :
 
 ![img](https://raw.githubusercontent.com/mughu94/chatgptchecker/main/Screenshot%202023-04-07%20at%2021.01.42.png)
