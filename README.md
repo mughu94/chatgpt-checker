@@ -1,4 +1,4 @@
-# chatgpt api checker
+# Chatgpt Api Checker
 ChatGpt APi Checker secara Masal
 
 ## URL : https://old.my.id
