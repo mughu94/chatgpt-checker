@@ -3,7 +3,7 @@ ChatGpt APi Checker secara Masal
 
 ## URL : https://old.my.id
 
-Jika Repo ini 20 star akan saya push source code nya .
+Jika Repo ini tembus 20 star akan saya push source code nya .
 
 ## Sreenshot :
 
